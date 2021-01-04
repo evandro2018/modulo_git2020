@@ -19,3 +19,6 @@ Versão 1.0 (31/12/20 - A)
         h1 {color: #FFF;}
         h2 {color: blue;}
         h3 {font-size: 10px;}
+
+04/04/21 - C:
+    Exemplo do uso do Revert
