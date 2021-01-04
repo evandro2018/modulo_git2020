@@ -7,3 +7,7 @@ Versão 1.0 (31/12/20 - A)
 31/12/20 - B
     Atualização do index.html
         "Teste para Commit no estágio 1"
+
+04/01/21 - A
+    Criado e atualizado o arquivo script.js
+        //Sem conteúdo
