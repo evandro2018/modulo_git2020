@@ -4,10 +4,18 @@ Versão 1.0 (31/12/20 - A)
     Criado o arquivo style.css
         *{background-color: #CCC;}
 
-31/12/20 - B
+31/12/20 - B:
     Atualização do index.html
         "Teste para Commit no estágio 1"
 
-04/01/21 - A
+04/01/21 - A:
     Criado e atualizado o arquivo script.js
         //Sem conteúdo
+
+04/01/21 - B:
+    Reogarnização dos arquivos e pastas
+    Atualização do index.html e style.css
+        "Teste para o GitHub no estágio 2"
+        h1 {color: #FFF;}
+        h2 {color: blue;}
+        h3 {font-size: 10px;}
